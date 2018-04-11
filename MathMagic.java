@@ -12,3 +12,5 @@ public class MathMagic {
         System.out.println(stepSix);
     }
 }
+
+// first project & only project in the first part of the Learn Java course
