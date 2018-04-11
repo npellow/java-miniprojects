@@ -7,3 +7,5 @@ Code files for the mini projects I've done from the Learn Java course on codecad
 Math Magic - exercise in using math operations
 
 Continents and Cities - exercise in using switch statements
+
+Car Loan Calculator - exercise in using if / else if / else statements
